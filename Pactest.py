@@ -303,6 +303,30 @@ maze.right(90)
 maze.forward(315)
 maze.left(90)
 maze.forward(70)
+maze.left(90)
+maze.pendown()
+maze.forward(20)
+maze.left(90)
+maze.forward(70)
+maze.left(90)
+maze.forward(20)
+maze.left(90)
+maze.forward(70)
+maze.penup()
+maze.forward(295)
+maze.forward(40)
+maze.pendown()
+maze.left(90)
+maze.forward(20)
+maze.right(90)
+maze.forward(70)
+maze.right(90)
+maze.forward(20)
+maze.right(90)
+maze.forward(70)
+
+
+
 
 #Background and Maze colors
 
