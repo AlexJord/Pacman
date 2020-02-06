@@ -327,7 +327,7 @@ maze.forward(70)
 
 
 
-
+                    
 #Background and Maze colors
 
 wn = t.Screen()
